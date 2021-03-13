@@ -1,0 +1,39 @@
+.App {
+  text-align: left;
+}
+
+.link{
+  background-color: #520701;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.link:hover {
+  background-color: rgb(134, 2, 2);
+}
+
+.notFound{
+  margin: auto ;
+  margin-bottom: 10px;
+  max-width: 40%; 
+  border: 2px solid grey; 
+  box-shadow: 5px 5px grey ;
+  border-radius: 5px; 
+  padding: 20px;
+}
+
+.nav{
+  margin: auto;
+  margin-bottom: 10px; 
+  max-width: 40%; 
+  border: 2px solid grey; 
+  box-shadow: 5px 5px grey;
+  border-radius: 5px;
+  padding: 20px; 
+  display:'flex'
+}

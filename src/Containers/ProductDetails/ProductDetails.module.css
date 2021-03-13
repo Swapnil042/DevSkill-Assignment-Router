@@ -1,0 +1,23 @@
+.button {
+    transition-duration: 0.2s;
+    width: 200px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .button:hover {
+    background-color: grey; 
+    color: white;
+  }
+
+.details{
+    margin: auto;
+    max-width: 50%; 
+    border: 2px solid grey; 
+    box-shadow: 5px 5px grey;
+    border-radius: 5px; 
+    padding: 20px; 
+    display: flex; 
+}
